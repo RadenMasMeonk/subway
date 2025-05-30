@@ -180,8 +180,10 @@ public class playercontrolller : MonoBehaviour
         if (hit.transform.tag == namatag)
         {
             player_manager.GameOver = true;
+            
         }
     }
+  
     void CodeA()
     {
         animatorplayer.SetBool("run", true);

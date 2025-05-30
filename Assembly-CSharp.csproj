@@ -65,6 +65,8 @@
     <Compile Include="Assets\script\SwipeManager.cs" />
     <Compile Include="Assets\script\generator.cs" />
     <Compile Include="Assets\script\playercontrolller.cs" />
+    <Compile Include="Assets\script\Coin.cs" />
+    <Compile Include="Assets\script\ScoreManager.cs" />
     <Compile Include="Assets\script\camerafollow.cs" />
     <Compile Include="Assets\script\panel_manager.cs" />
   </ItemGroup>

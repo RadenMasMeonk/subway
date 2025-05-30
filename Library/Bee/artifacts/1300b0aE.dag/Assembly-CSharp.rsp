@@ -357,10 +357,12 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.21f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/script/camerafollow.cs"
 "Assets/script/coba2.cs"
+"Assets/script/Coin.cs"
 "Assets/script/generator.cs"
 "Assets/script/panel_manager.cs"
 "Assets/script/playercontrolller.cs"
 "Assets/script/player_manager.cs"
+"Assets/script/ScoreManager.cs"
 "Assets/script/SwipeManager.cs"
 -langversion:9.0
 
